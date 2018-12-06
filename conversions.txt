@@ -1,5 +1,13 @@
 convertions 
--rands to cents 
+-rands to cents
+	mulitiply rand by 100 
+
+
+ 
 - km to m
+	multiply km by 1000
+
+
+
 - L to ml
 
